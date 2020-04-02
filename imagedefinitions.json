@@ -1,6 +1,6 @@
 [
     {
-        "name": "node-server",
-        "imageUri": "dvohra/node-server"
+        "name": "latest",
+        "imageUri": "omoye94/nodeserver"
     }
 ]
