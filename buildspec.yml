@@ -2,7 +2,7 @@
 phases: 
   build: 
     commands: 
-      - "echo Build started on `date`"
+      - "echo Build started by omoye on `date`"
       - "echo Building the Docker image..."
       - "docker build -t omoye94/nodeserver1 ."
       - "docker tag omoye94/nodeserver1 omoye94/nodeserver1:latest"
